@@ -11,7 +11,7 @@ header_pages:
   - index.markdown
   - about.markdown
   - skills.markdown
-  - work_experience.markdown
+  - experience.markdown
 
 # Build settings
 theme: minima

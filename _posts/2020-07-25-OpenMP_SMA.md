@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OpenMP_SMA'
+title: 'OpenMP-SMA'
 date: 2020-07-25 14:25:12 +0530
 categories: jekyll update
 permalink: /projects/openmp-sma/

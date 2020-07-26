@@ -3,3 +3,7 @@
 .post-title-custom {
 	@include relative-font-size(1.75);
 }
+
+.role {
+	color: $brand-color;
+}
