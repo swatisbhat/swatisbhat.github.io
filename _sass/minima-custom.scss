@@ -7,3 +7,7 @@
 .role {
 	color: $brand-color;
 }
+
+.site-tag {
+	@include relative-font-size(1);
+}

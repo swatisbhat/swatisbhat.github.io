@@ -8,11 +8,12 @@ github_username: swatisbhat
 linkedin_username: swati-s-bhat-b68a86145
 
 header_pages:
-  - index.markdown
-  - about.markdown
-  - skills.markdown
-  - experience.markdown
+    - index.markdown
+    - about.markdown
+    - skills.markdown
+    - experience.markdown
 
+show_excerpts: true
 # Build settings
 theme: minima
 plugins:
