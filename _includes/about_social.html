@@ -1,0 +1,18 @@
+<span class="social-media-list">
+	{%- if site.linkedin_username -%}
+	<a
+		href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"
+		>LinkedIn</a
+	>,&nbsp;{%- endif -%} {%- if site.github_username -%}
+	<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"
+		>GitHub</a
+	>,&nbsp;{%- endif -%} {%- if site.twitter_username -%}
+	<a
+		href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"
+		>Twitter</a
+	>&nbsp;or&nbsp;{%- endif -%} {%- if site.goodreads_username -%}
+	<a
+		href="https://www.goodreads.com/{{ site.goodreads_username| cgi_escape | escape }}"
+		>Goodreads</a
+	>{%- endif -%}
+</span>

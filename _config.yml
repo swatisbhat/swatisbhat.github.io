@@ -5,12 +5,12 @@ baseurl: '/'
 url: 'https://swatisbhat.github.io'
 
 github_username: swatisbhat
-linkedin_username: swati-s-bhat-b68a86145
+linkedin_username: swati-s-bhat
+twitter_username: SwatiSB4
+goodreads_username: swatisb
 
 header_pages:
     - index.markdown
-    - about.markdown
-    - skills.markdown
     - experience.markdown
 
 show_excerpts: true

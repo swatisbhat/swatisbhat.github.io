@@ -34,12 +34,8 @@ layout: default
 	</header>
 
 	<div class="post-content e-content" itemprop="articleBody">
-		{{ content }} {%- if page.tags -%} {%- for tag in page.tags -%}
-		<code class="language-plaintext highlighter-rouge"
-			><a class="tag-link" href="{{ site.url | append: '/tags/' }}">
-				{{ tag | slugify }}
-			</a></code
-		>&nbsp; {%- endfor -%} {%- endif -%}
+		{{ content }} {%- if page.tags -%} {%- assign tagged_post = page -%} {%-
+		include post_tags.html -%} {%- endif -%}
 	</div>
 
 	{%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%-

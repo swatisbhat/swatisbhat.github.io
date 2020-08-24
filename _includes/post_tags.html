@@ -1,0 +1,8 @@
+<div class="post-tags">
+	{%- for tag in tagged_post.tags -%}
+	<code class="language-plaintext highlighter-rouge"
+		><a class="tag-link" href="{{ site.url | append: '/tags/' }}">
+			{{ tag | slugify }}
+		</a></code
+	>&nbsp; {%- endfor -%}
+</div>

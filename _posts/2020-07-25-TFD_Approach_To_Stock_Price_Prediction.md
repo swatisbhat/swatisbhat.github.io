@@ -10,6 +10,8 @@ tags: ['Deep Learning', 'Time Series Analysis', 'Data processing']
 
 Designed and built a pipeline for the prediction of stock prices for automobile companies using a novel TFD - **Time Series, Financial Ratios, and Deep Learning approach**. Data was extracted using **web scraping**, technical and time series analysis were performed to extract features, multiple **feature selection** methods were applied.
 
-[Publication Link][tfd-src]
+Resulted in a publication at the third International Conference on Intelligent Computing and Communication - 2019.
 
-[tfd-src]: https://link.springer.com/chapter/10.1007/978-981-15-1084-7_61
+[Publication Link][tfd-publication-link]
+
+[tfd-publication-link]: https://link.springer.com/chapter/10.1007/978-981-15-1084-7_61
