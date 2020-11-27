@@ -23,6 +23,6 @@ skills:
     ]
 ---
 
-I'm Swati. I'm a Software Engineer at Fidelity Investments.
+I'm Swati. I'm a Software Engineer at VMware.
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-

@@ -5,10 +5,18 @@ permalink: /experience/
 ---
 
 {:.role}
+Member Of Technical Staff - VMware
+
+{:.post-meta}
+November 2020 - Present
+
+Part of the vRealize Network Insight team.
+
+{:.role}
 Software Engineer - Fidelity Investments
 
 {:.post-meta}
-August 2019 - Present
+August 2019 - October 2020
 
 I work as a Software Engineer at Fidelity. I build and maintain Web Microservices in Java and UI components in Angular that run as part of the business critical desktop application used by Portfolio Managers at Fidelity.
 
