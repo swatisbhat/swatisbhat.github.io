@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-intro_header: hi!
+intro_header: hi!!
 projects_title: Projects
 include_skills: true
 skills_title: Skills
