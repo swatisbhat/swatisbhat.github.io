@@ -9,17 +9,17 @@ include_skills: true
 skills_title: Skills
 skills:
     [
-        'C',
-        'C++',
         'Java',
         'Python',
+        'Bash',
+        'Git',
+        'SQL',
+        'C',
+        'C++',
         'JavaScript',
         'TypeScript',
-        'Bash',
         'Angular',
-        'RxJs',
-        'Git',
-        'MySQL',
+        'RxJs'
     ]
 ---
 
